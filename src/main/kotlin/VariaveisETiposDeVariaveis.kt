@@ -1,5 +1,5 @@
 /**
- * Funcao main e a primeira funcao que sera executada quando o projeto for startado, igual 'PSVM' em java.
+ * Funcao ControleDeFluxo.ControleDeFluxo.main e a primeira funcao que sera executada quando o projeto for startado, igual 'PSVM' em java.
  */
 fun main() {
 
