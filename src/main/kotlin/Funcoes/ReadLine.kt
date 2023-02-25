@@ -1,3 +1,5 @@
+package Funcoes
+
 fun main() {
 
     val s = readlnOrNull()

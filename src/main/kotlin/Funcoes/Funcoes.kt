@@ -1,3 +1,5 @@
+package Funcoes
+
 import kotlin.math.*
 
 fun main() {
@@ -7,7 +9,7 @@ fun main() {
     println("Funcao soma: ${sum(2, 5)}")
     println("Funcao soma de uma linha: ${sumsum(5, 4)}")
     helloWorld2()
-    println("Funcao divisao de uma linha: ${divisao(11.0F, 5.5F)}")
+    println("Funcao Funcoes.divisao de uma linha: ${divisao(11.0F, 5.5F)}")
 
     // Funcoes padrao do Kotlin
     val str = "Kotlin"
@@ -37,7 +39,7 @@ fun sum(a: Int, b: Int): Int {
 }
 
 // Funcao de uma linha, nao e necessario declarar o tipo explicitamente
-//fun sumsum(c: Int, d: Int): Int = c + d
+//fun Funcoes.sumsum(c: Int, d: Int): Int = c + d
 fun sumsum(c: Int, d: Int) = c + d
 
 
